@@ -1,6 +1,4 @@
-# OCR: Validar Cuenta y Moneda
-# ![OCR: Validar Cuenta y Moneda](https://pbs.twimg.com/profile_images/1219745045731074048/rPOgxE1X_400x400.jpg)
-
+# OCR: Validar Audio
 
 
 
@@ -16,7 +14,7 @@ Instalar docker:
 
 Clonar  repositorio
 
-    git clone https://github.com/csticorp/tesseract_valida_estado_cta.git
+    git clone https://github.com/jose-manuel-serna-vera/validacion_de_audio.git
 
 
 Compilación del contenedor
