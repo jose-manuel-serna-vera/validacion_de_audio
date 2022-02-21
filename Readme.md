@@ -1,8 +1,3 @@
-# OCR: Validar Audio
-
-
-
-----------
 
 # Getting started
 
