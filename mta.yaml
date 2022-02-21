@@ -1,0 +1,5 @@
+applications:
+- name: cstitesseract
+  random-route: true
+  path: ./app
+  memory: 1024M

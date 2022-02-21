@@ -1,0 +1,20 @@
+#Flask
+#pymupdf
+#image
+#pytesseract
+#frontend
+#Image
+#fitz
+#tools
+--------------------------
+RUN pip3 install Flask
+RUN pip3 install fitz
+RUN pip3 install --upgrade pip
+RUN pip3 install pymupdf
+RUN pip3 install --upgrade pymupdf
+RUN pip3 install tools
+RUN pip3 install Pillow==6.2.2
+RUN pip3 install pytesseract
+RUN mkdir png
+RUN mkdir audio2process
+RUN mkdir static
